@@ -1,3 +1,9 @@
+@font-face {
+    font-family: buttermilk;
+    src: url(./Buttermilk.woff2);
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +18,7 @@ html, body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(img/pexels-james-lee-6054896.jpg);
+    background-image: url(img/pexels-james-lee-6054896.webp);
     background-size:cover
 }
 
